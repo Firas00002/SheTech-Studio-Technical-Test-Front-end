@@ -1,0 +1,1 @@
+export * as ActionsCreator from './actions/gamesActions'
